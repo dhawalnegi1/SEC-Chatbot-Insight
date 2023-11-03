@@ -29,12 +29,6 @@ Python | Streamlit | Google Collab | Nougat | Google VM | Fast API | Airflow | P
 
 ### Architecture diagram ###
 
-![image](https://github.com/BigDataIA-Fall2023-Team2/Assignment3/assets/131703516/1941d1e3-98bc-4183-b14b-52eb96864f47)
-
-![image](https://github.com/BigDataIA-Fall2023-Team2/Assignment3/assets/131703516/91ce1f08-b742-4494-a88e-cdd016570cc3)
-
-![image](https://github.com/BigDataIA-Fall2023-Team2/Assignment3/assets/131703516/1c88bc1d-47cf-4650-b776-a54c4093468c)
-
 ![image](https://github.com/BigDataIA-Fall2023-Team2/Assignment3/assets/131703516/2915a047-cabf-4092-9c44-d839314491ce)
 
 ### Project Flow
