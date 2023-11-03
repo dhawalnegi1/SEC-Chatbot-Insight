@@ -35,6 +35,8 @@ Python | Streamlit | Google Collab | Nougat | Google VM | Fast API | Airflow | P
 
 ![image](https://github.com/BigDataIA-Fall2023-Team2/Assignment3/assets/131703516/1c88bc1d-47cf-4650-b776-a54c4093468c)
 
+![image](https://github.com/BigDataIA-Fall2023-Team2/Assignment3/assets/131703516/2915a047-cabf-4092-9c44-d839314491ce)
+
 ### Project Flow
 
 The app is a chatbot application that will answer questions related to the forms uploaded in SEC website. 
