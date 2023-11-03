@@ -12,20 +12,20 @@ This project builds upon the foundation laid by Project 1(https://github.com/Big
 
 ### Application and Documentation Link
 
-App link - 
+App link - https://t2a3p1.streamlit.app/
 
-Fast API hosted on Google VM - 
+Fast API hosted on Google VM - http://34.118.251.190:8000/docs
+
+Airflow on Google VM - http://34.118.251.190:8080/
 
 ### Project Resources
 
 Google Codelab link - 
 
-Google Collab Notebook link -
-
 Project Demo - 
 
 ### Tech Stack
-Python | Streamlit | Google Collab | Nougat | Google VM | Fast API | Airflow | PyPDF | Docker | MS-SQL sever
+Python | Streamlit | Google Collab | Nougat | Google VM | Fast API | Airflow | PyPDF | Docker | MS-SQL sever | Pinecone
 
 ### Architecture diagram ###
 
