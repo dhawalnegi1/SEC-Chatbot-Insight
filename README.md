@@ -1,6 +1,6 @@
-# Assignment3
 
-### Project Descrition 
+
+# Project Descrition 
 
 This project builds upon the foundation laid by Project 1(https://github.com/BigDataIA-Fall2023-Team2/Assignment1/blob/main/part1/Readme.md) and Project 2(https://github.com/BigDataIA-Fall2023-Team2/Assignment2). Here, we are using forms uploaded in the sec website (https://www.sec.gov/forms). The application developed in the project is a chatbot that can answer any question related to any of the uploaded forms in the sec website (https://www.sec.gov/forms) and answer the question raised by user. There are three parts to the project. 
 
